@@ -14,9 +14,10 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('home');
 });
 
+<<<<<<< Updated upstream
 Route::get('/index', function () {
     return view('template');
 });
@@ -25,3 +26,5 @@ Route::get('/kuliah', function(){
     return view ('laptopKuliah');
 });
 
+=======
+>>>>>>> Stashed changes
