@@ -22,6 +22,7 @@ Route::get('/kuliah', function(){
     return view ('laptopKuliah');
 });
 
+
 Route::get('/bisnis', function(){
     return view ('laptopBisnis');
 });
@@ -29,3 +30,4 @@ Route::get('/bisnis', function(){
 Route::get('/Contact', function(){
     return view ('contacUs');
 });
+

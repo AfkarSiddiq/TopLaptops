@@ -23,6 +23,7 @@
 
 
 
+
 <style>
     body{
         background-color: #1F233E;
@@ -46,4 +47,5 @@
         font-size: 48px;
     }
 </style>
+
 @endsection
