@@ -36,6 +36,7 @@
 
 
 @yield('content')
+@yield('comment')
 <br><hr><br>
 </body>
 <footer class="bg-dark text-center text-white">
@@ -45,31 +46,29 @@
     <section class="mb-4">
 
       <!-- Google -->
-      <a class="btn btn-outline-light btn-floating m-1" href="/kuliah" role="button"
+      <a class="btn btn-outline-light btn-floating m-1" href="mailto: bongafk@gmail.com" role="button"
         ><img src="image/icon/email.png" style=" width: 30px; height: 30px; "><i class="fab fa-google"></i
       ></a>
 
       <!-- Instagram -->
-      <a class="btn btn-outline-light btn-floating m-1" href="#!" role="button"
+      <a class="btn btn-outline-light btn-floating m-1" href="https://www.instagram.com/bongs.set" role="button"
         ><img src="image/icon/instagram.png" style=" width: 30px; height: 30px; "><i class="fab fa-instagram"></i
       ></a>
 
       <!-- whatsApp -->
-      <a class="btn btn-outline-light btn-floating m-1" href="#!" role="button"
+      <a class="btn btn-outline-light btn-floating m-1" href="https://wa.me/+6282169019974" role="button"
         ><img src="image/icon/whatsapp.png" style=" width: 30px; height: 30px; "><i class="fab fa-whatsApp-in"></i
       ></a>
 
       <!-- Github -->
-      <a class="btn btn-outline-light btn-floating m-1" href="#!" role="button"
+      <a class="btn btn-outline-light btn-floating m-1" href="https://github.com/AfkarSiddiq/TopLaptops.git" role="button"
         ><img src="image/icon/Github-Symbol.png" style=" width: 40px; height: 30px; "><i class="fab fa-github"></i
       ></a>
     </section>
     <br>
-    <p class="text-center">Copyright</p>
+    <p class="text-center">Copyright &copy;  </p>
     <!-- Section: Social media -->
   </div>
   <!-- Grid container -->
-
-  
 </footer>
 </html> 
