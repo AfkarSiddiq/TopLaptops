@@ -13,8 +13,8 @@
         <br><br><br>
         <p>TopLaptops memberikan rekomendasi laptop untuk orang-orang yang ingin mencari<br> laptop sesuai kebutuhannya tanpa bimbang.</p>
         <br><br><br>
-        <p>Lihat Rekomendasi ---></p>
-        <a href="/" class="btn btn-primary" style="width: 308px; height: 70px;">Rekomendasi</a>
+        <p>Lihat Rekomendasi ---></p><br>
+        <a href="/" class="btn btn-primary">Rekomendasi</a>
         <br><br><br><br><br>
     </center>
     </div>
@@ -36,7 +36,7 @@
         color: white;
         background-image: url("/image/background.png");
         background-repeat: no-repeat;
-        background-size:cover
+        background-size: cover;
     }
     .opening p{
         font-size: 30px;

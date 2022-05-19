@@ -41,37 +41,29 @@
   <div class="container p-4 pb-0">
     <!-- Section: Social media -->
     <section class="mb-4">
-      <!-- Facebook -->
-      <a class="btn btn-outline-light btn-floating m-1" href="#!" role="button"
-        ><i class="fab fa-facebook-f"></i
-      ></a>
-
-      <!-- Twitter -->
-      <a class="btn btn-outline-light btn-floating m-1" href="#!" role="button"
-        ><i class="fab fa-twitter"></i
-      ></a>
 
       <!-- Google -->
-      <a class="btn btn-outline-light btn-floating m-1" href="#!" role="button"
-        ><i class="fab fa-google"></i
+      <a class="btn btn-outline-light btn-floating m-1" href="/kuliah" role="button"
+        ><img src="image/icon/email.png" style=" width: 30px; height: 30px; "><i class="fab fa-google"></i
       ></a>
 
       <!-- Instagram -->
       <a class="btn btn-outline-light btn-floating m-1" href="#!" role="button"
-        ><i class="fab fa-instagram"></i
+        ><img src="image/icon/instagram.png" style=" width: 30px; height: 30px; "><i class="fab fa-instagram"></i
       ></a>
 
-      <!-- Linkedin -->
+      <!-- whatsApp -->
       <a class="btn btn-outline-light btn-floating m-1" href="#!" role="button"
-        ><i class="fab fa-linkedin-in"></i
+        ><img src="image/icon/whatsapp.png" style=" width: 30px; height: 30px; "><i class="fab fa-whatsApp-in"></i
       ></a>
 
       <!-- Github -->
       <a class="btn btn-outline-light btn-floating m-1" href="#!" role="button"
-        ><i class="fab fa-github"></i
+        ><img src="image/icon/Github-Symbol.png" style=" width: 40px; height: 30px; "><i class="fab fa-github"></i
       ></a>
     </section>
-    <br><br>
+    <br>
+    <p class="text-center">Copyright</p>
     <!-- Section: Social media -->
   </div>
   <!-- Grid container -->
