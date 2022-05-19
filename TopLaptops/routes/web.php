@@ -26,3 +26,6 @@ Route::get('/kuliah', function(){
     return view ('laptopKuliah');
 });
 
+Route::get('/test', function () {
+    return view('test');
+});

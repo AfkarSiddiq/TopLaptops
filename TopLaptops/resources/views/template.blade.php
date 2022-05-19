@@ -16,7 +16,14 @@
       <div class="collapse navbar-collapse" id="navbarSupportedContent" >
         <ul class="navbar-nav me-auto mb-2 mb-lg-0 ">
           <li class="nav-item">
-            <a class="nav-link active" href="/"> <img src="image/Rekomendasi.png" alt="rekomendasi" width="140px" height="46px"> </a>
+            <a class="nav-link active" href="/test"> <img src="image/Rekomendasi.png" alt="rekomendasi" width="140px" height="46px"> </a>
+              <ul class = "dropdown">
+                <li><a href="">Kuliah</a></li>
+                <li><a href="">Coding</a></li>
+                <li><a href="">Bisnis</a></li>
+                <li><a href="">Premium</a></li>
+                <li><a href="">Gaming</a></li>
+              </ul>
           </li>
           <li class="nav-item">
             <a class="nav-link active" href="/"><img src="image/Kritsar.png" alt="rekomendasi" width="140px" height="46px"></a>

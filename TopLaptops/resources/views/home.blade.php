@@ -1,7 +1,10 @@
 
-
+@extends('template')
 @section('content')
-    <div class="container" style="background: <img src : ">
-
-    </div>
+<center>
+<div class="container">
+    <p>hdsfyufv</p>
+</div>
+</center>
+   
 @endsection
