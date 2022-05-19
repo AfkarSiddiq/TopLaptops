@@ -1,41 +1,43 @@
 @extends('template')
-@section('title', 'TopLaptops | Kuliah')
+@section('title', 'TopLaptops | Bisnis')
+
 @section('content')
-    <div class="container">
+
+<div class="container">
         <div class="row">
             <div class="col-md-12">
-                <h1>Rekomendasi Laptop kuliah</h1>
+                <h1>Rekomendasi Laptop Bisnis</h1>
                 <hr>
             </div>
         </div>
         <div class="row">
             <div class="col-md-3">
                 <div class="card">
-                    <img class="card-img-top" src="/image/Kuliah/asus chromebook c214.png" alt="Card image cap">
+                    <img class="card-img-top" src="/image/Bisnis/dell latitude 3520.jpg" alt="Card image cap">
                     <div class="card-body">
-                        <h5 class="card-title">Asus Chromebook C214</h5>
+                        <h5 class="card-title">dell latitude 3520</h5>
                         <p class="card-text">Intel Celeron N4000 Processor 2.8 GHz (12M Cache, up to 4.7 GHz)</p>
-                        <center><a href="#" class="btn btn-primary">Lihat</a></center>
+                        <a href="#" class="btn btn-primary">Lihat</a>
                     </div>
                 </div>
             </div>
             <div class="col-md-3">
                 <div class="card">
-                    <img class="card-img-top" src="/image/Kuliah/asus-vivobook-15-a516.jpg" alt="Card image cap">
+                    <img class="card-img-top" src="/image/Bisnis/hp elitbook 840.jpg" alt="Card image cap">
                     <div class="card-body">
-                        <h5 class="card-title">asus-vivobook-15-a516</h5>
+                        <h5 class="card-title">hp elitbook 840</h5>
                         <p class="card-text">Intel Celeron N4000 Processor 2.8 GHz (12M Cache, up to 4.7 GHz)</p>
-                        <center><a href="#" class="btn btn-primary">Lihat</a></center>
+                        <a href="#" class="btn btn-primary">Lihat</a>
                     </div>
                 </div>
             </div>
             <div class="col-md-3">
                 <div class="card">
-                    <img class="card-img-top" src="/image/Kuliah/Samsung Chromebook 4.JPG" alt="Card image cap">
+                    <img class="card-img-top" src="/image/Bisnis/lenovo slim 7 carbon.jpg" alt="Card image cap">
                     <div class="card-body">
-                        <h5 class="card-title">Samsung Chromebook 4</h5>
+                        <h5 class="card-title">lenovo slim 7 carbon</h5>
                         <p class="card-text">Intel Celeron N4000 Processor 2.8 GHz (12M Cache, up to 4.7 GHz)</p>
-                        <center><a href="#" class="btn btn-primary">Lihat</a></center>
+                        <a href="#" class="btn btn-primary">Lihat</a>
                     </div>
 
                 </div>
@@ -43,23 +45,22 @@
 
             <div class="col-md-3">
                 <div class="card">
-                    <img class="card-img-top" src="/image/Kuliah/Lenovo-V130-HEID.jpg" alt="Card image cap">
+                    <img class="card-img-top" src="/image/Bisnis/lenovo thinkpad x1.jpg" alt="Card image cap">
                     <div class="card-body">
-                        <h5 class="card-title">Lenovo-V130-HEID</h5>
+                        <h5 class="card-title">lenovo thinkpad x1</h5>
                         <p class="card-text">Intel Celeron N4000 Processor 2.8 GHz (12M Cache, up to 4.7 GHz)</p>
-                        <center><a href="#" class="btn btn-primary">Lihat</a></center>
+                        <a href="#" class="btn btn-primary">Lihat</a>
                     </div>
                 </div>
-            </div>
-            <div class="komen">
-                <p></p>
             </div>
         </div>
     </div>
-
+    <br><br><hr>
+ 
+ 
  <style>
       body{
-          background-color: #E9EACE;
+          background-color: #921449;
       }
   </style>
 @endsection

@@ -1,4 +1,5 @@
 @extends('template')
+@section('title', 'TopLaptops | Home')
 @section('content')
 <div class="head-fluid">
     <div class="littlelogo">

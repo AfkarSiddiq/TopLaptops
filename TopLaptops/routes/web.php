@@ -22,3 +22,10 @@ Route::get('/kuliah', function(){
     return view ('laptopKuliah');
 });
 
+Route::get('/bisnis', function(){
+    return view ('laptopBisnis');
+});
+
+Route::get('/Contact', function(){
+    return view ('contacUs');
+});
