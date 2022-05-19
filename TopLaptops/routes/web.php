@@ -13,13 +13,9 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/home', function () {
-    return view('home');
-});
-
 
 Route::get('/', function () {
-    return view('template');
+    return view('home');
 });
 
 Route::get('/kuliah', function(){
